@@ -5,3 +5,5 @@ Esse site foi fortemente inspirado no flashpointarchive.org
 
 Este foi o primeiro site que eu fiz levando um pouco mais a sério, então tem algumas coisas que com certeza poderiam melhorar.
 
+## Clique [aqui](https://fabin0casa.github.io/Site-Portal-Doors/Doors%20home.html) para acessar o site com o GitHub Pages
+
