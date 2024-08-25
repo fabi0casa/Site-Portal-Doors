@@ -5,4 +5,3 @@ Esse site foi fortemente inspirado no flashpointarchive.org
 
 Este foi o primeiro site que eu fiz levando um pouco mais a sério, então tem algumas coisas que com certeza poderiam melhorar.
 
-Obs.: esse site não tem suporte pra mobile, só desktop.
