@@ -1,5 +1,5 @@
-# Portal Doors
-Portal Doors é um site que desenvolvi em setembro de 2023 como parte de um projeto para a matéria Eletiva PHP. A proposta do site é funcionar como um blog onde os usuários podem baixar um sistema operacional fictício chamado "Doors". Este projeto foi fortemente inspirado no flashpointarchive.org.
+# Portal Doors <img src= "https://github.com/user-attachments/assets/f884493f-c699-4e13-84e6-724d9355aec0" style="height: 60px;">
+Portal Doors é um site que desenvolvi em setembro de 2023 como parte de um projeto para a matéria Eletiva PHP. A proposta do site é funcionar como um blog onde os usuários podem baixar um sistema operacional fictício chamado "Doors".
 
 ## Sobre o Projeto
 O Portal Doors é o primeiro site que criei com um nível mais elevado de dedicação, e através dele, procurei aplicar e consolidar os conhecimentos adquiridos durante o curso. Embora eu esteja ciente de que existem aspectos que poderiam ser aprimorados, este projeto representa um marco importante no meu desenvolvimento como desenvolvedor web.
@@ -7,7 +7,7 @@ O Portal Doors é o primeiro site que criei com um nível mais elevado de dedica
 ## Funcionalidades
 - **Blog**: O site é estruturado como um blog onde os usuários podem encontrar posts relacionados ao sistema operacional "Doors".
 - **Download**: Oferece a possibilidade de baixar o sistema fictício "Doors", proporcionando uma experiência única e criativa aos visitantes.
-- **Design inspirado**: O design e a navegação do site foram inspirados no flashpointarchive.org, o que ajudou a definir a estética e a usabilidade do Portal Doors.
+- **Design inspirado**: O design e a navegação do site foram inspirados no site [flashpointarchive.org](flashpoint.org), o que ajudou a definir a estética e a usabilidade do Portal Doors.
   
 ## Tecnologias Utilizadas
 - **HTML**: Utilizado para a estruturação das páginas do site.
