@@ -1,4 +1,7 @@
 # Portal Doors <img src= "https://github.com/user-attachments/assets/f884493f-c699-4e13-84e6-724d9355aec0" style="height: 60px;">
+
+![image](https://github.com/user-attachments/assets/2df96811-145a-4827-9c59-fe0bde692805)
+
 Portal Doors é um site que desenvolvi em setembro de 2023 como parte de um projeto para a matéria Eletiva PHP. A proposta do site é funcionar como um blog onde os usuários podem baixar um sistema operacional fictício chamado "Doors".
 
 ## Sobre o Projeto
