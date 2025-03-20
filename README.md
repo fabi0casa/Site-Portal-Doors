@@ -19,5 +19,5 @@ O Portal Doors é o primeiro site que criei com um nível mais elevado de dedica
 ## Reflexões
 Desenvolver o Portal Doors foi uma experiência desafiadora e enriquecedora. Apesar de ser o meu primeiro site em que me empenhei seriamente, reconheço que há sempre espaço para melhorias e estou aberto a sugestões. Este projeto me permitiu não apenas aprimorar minhas habilidades técnicas, mas também explorar a criatividade ao inventar um sistema operacional fictício.
 
-### Clique [aqui](https://fabin0casa.github.io/Site-Portal-Doors/Doors%20home.html) para acessar o site com o GitHub Pages
+### Clique [aqui](https://fabi0casa.github.io/Site-Portal-Doors/Doors%20home.html) para acessar o site com o GitHub Pages
 
